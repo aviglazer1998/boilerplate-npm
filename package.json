@@ -10,6 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "https://github.com/aviglazer1998/boilerplate-npm"
+	},
+	"author": "Avi Glazer"
 }
